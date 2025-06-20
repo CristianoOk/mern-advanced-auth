@@ -1,3 +1,6 @@
+COMO ESTOY HACIENDO ESTE REPOSITORIO PUBLIC, POR RAZONES DE SEGURIDAD VOY A RESTRINGIR EL ACCESO A LA BASE DE DATOS (YA NO SE VA A PODER ACCEDER DE CUALQUIER IP, MIENTRAS CREABA EL PROYECTO PUSE QUE SE PUEDA PERO YA NO). TE DEJO UNA IMAGEN SCREENSHOT PARA QUE MASOMENOS TE UBIQUES CUAL ES LA SECCIÓN A LA QUE DEBERÍAS IR PARA HACER ESTE TIPO DE CAMBIOS:
+![image](https://github.com/user-attachments/assets/45a5ecd4-7c3f-4693-8185-0d69448187a4)
+
 ![image](https://github.com/user-attachments/assets/cbad539f-e5c9-4c16-963d-df9be0200f3f)
 ![image](https://github.com/user-attachments/assets/783cafbb-a013-4b1c-a057-a61d18cded2e)
 ![image](https://github.com/user-attachments/assets/f65d7ba4-2ec8-41ee-8f21-ee175e1495c8)
